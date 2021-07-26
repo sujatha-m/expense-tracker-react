@@ -1,9 +1,5 @@
 import React from 'react'
 
 export const Header = () => {
-    return (
-        <div>
-            Hello world
-        </div>
-    )
+  return <h2>Expense Tracker</h2>
 }
